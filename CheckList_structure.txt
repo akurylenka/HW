@@ -1,0 +1,14 @@
+What should be on the checklist?
+List of checks (with required level of detail)
+Check status:
+build that was tested
+test environment (if applicable)
+tester
+Result of checking
+
+To create a working checklist, pay attention to these recommendations:
+1. One point = one check
+2. When compiling a checklist, you need to rely on requirements
+3. Name checklist items in a form common to all team members
+4. Detail the checklist depending on the task.
+5. Combine checklists into matrices
