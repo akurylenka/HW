@@ -1,0 +1,12 @@
+Bug report structure:
+Summary
+Project
+Component 
+Version
+Severity: Blocker/Critical/Major/Minor/Trivial
+Priority: High/Medium/Low
+Status
+Author
+Assigned To
+Description:  Steps to Reproduce, Actual result, Expected result
+Attachments
